@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131810" started-at="2018-06-24T00:25:09Z" finished-at="2018-06-24T00:27:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="131810" started-at="2018-06-24T00:25:09Z" finished-at="2018-06-24T00:27:21Z">
+      <class name="bluecake.HomePage">
+        <test-method status="PASS" signature="baseNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:bluecake.HomePage@66a3ffec]" name="baseNavigation" duration-ms="32500" started-at="2018-06-24T00:26:09Z" data-provider="getData" finished-at="2018-06-24T00:26:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[me@me.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Restricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:bluecake.HomePage@66a3ffec]" name="cleanUp" is-config="true" duration-ms="2592" started-at="2018-06-24T00:26:41Z" finished-at="2018-06-24T00:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="baseNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:bluecake.HomePage@66a3ffec]" name="baseNavigation" duration-ms="31095" started-at="2018-06-24T00:26:44Z" data-provider="getData" finished-at="2018-06-24T00:27:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[you@me.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[678910]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Unrestricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:bluecake.HomePage@66a3ffec]" name="cleanUp" is-config="true" duration-ms="2505" started-at="2018-06-24T00:27:15Z" finished-at="2018-06-24T00:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- bluecake.HomePage -->
+      <class name="bluecake.validateMenuBar">
+        <test-method status="PASS" signature="baseNavigation()[pri:0, instance:bluecake.validateMenuBar@3e6fa38a]" name="baseNavigation" duration-ms="42264" started-at="2018-06-24T00:25:26Z" finished-at="2018-06-24T00:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:bluecake.validateMenuBar@3e6fa38a]" name="cleanUp" is-config="true" duration-ms="2845" started-at="2018-06-24T00:27:17Z" finished-at="2018-06-24T00:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:bluecake.validateTitle@47c62251]" name="cleanUp" is-config="true" duration-ms="1105" started-at="2018-06-24T00:27:20Z" finished-at="2018-06-24T00:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- bluecake.validateMenuBar -->
+      <class name="bluecake.validateTitle">
+        <test-method status="PASS" signature="baseNavigation()[pri:0, instance:bluecake.validateTitle@47c62251]" name="baseNavigation" duration-ms="16823" started-at="2018-06-24T00:25:09Z" finished-at="2018-06-24T00:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+      </class> <!-- bluecake.validateTitle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

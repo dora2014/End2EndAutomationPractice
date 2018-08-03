@@ -1,0 +1,4 @@
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+bluecake\App.class
+resources\base.class

@@ -1,0 +1,32 @@
+16:20:55.952 [main] INFO  bluecake.validateMenuBar - initialized the driver
+16:20:56.906 [main] ERROR bluecake.validateMenuBar - no object present
+16:21:30.145 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+16:21:30.145 [main] ERROR bluecake.validateMenuBar - can't see page!
+20:35:06.269 [main] INFO  bluecake.validateMenuBar - initialized the driver
+20:35:06.700 [main] ERROR bluecake.validateMenuBar - no object present
+20:35:35.187 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+20:35:35.187 [main] ERROR bluecake.validateMenuBar - can't see page!
+20:40:12.876 [main] INFO  bluecake.validateMenuBar - initialized the driver
+20:40:12.876 [main] ERROR bluecake.validateMenuBar - no object present
+20:40:29.467 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+20:40:29.468 [main] ERROR bluecake.validateMenuBar - can't see page!
+20:44:33.210 [main] INFO  bluecake.validateMenuBar - initialized the driver
+20:44:33.210 [main] ERROR bluecake.validateMenuBar - no object present
+20:45:29.199 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+20:45:29.199 [main] ERROR bluecake.validateMenuBar - can't see page!
+20:51:12.168 [main] INFO  bluecake.validateMenuBar - initialized the driver
+20:51:12.175 [main] ERROR bluecake.validateMenuBar - no object present
+20:51:24.898 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+20:51:24.898 [main] ERROR bluecake.validateMenuBar - can't see page!
+20:58:21.075 [main] INFO  bluecake.validateMenuBar - initialized the driver
+20:58:21.144 [main] ERROR bluecake.validateMenuBar - no object present
+20:58:32.482 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+20:58:32.482 [main] ERROR bluecake.validateMenuBar - can't see page!
+21:04:14.619 [main] INFO  bluecake.validateMenuBar - initialized the driver
+21:04:14.675 [main] ERROR bluecake.validateMenuBar - no object present
+21:04:25.609 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+21:04:25.609 [main] ERROR bluecake.validateMenuBar - can't see page!
+21:07:56.315 [main] INFO  bluecake.validateMenuBar - initialized the driver
+21:07:56.338 [main] ERROR bluecake.validateMenuBar - no object present
+21:08:09.124 [main] INFO  bluecake.validateMenuBar - landed on the landing page
+21:08:09.124 [main] ERROR bluecake.validateMenuBar - can't see page!

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+ 	<listener class-name="bluecake.Listners"/>
+ </listeners> 
+
+  <test name="validateMenu">
+    <classes>    
+      <class name="bluecake.validateMenuBar"/>
+      
+   <!--     <class name="bluecake.HomePage"/> -->
+    </classes>
+   </test>
+    
+    <test name="validateTitle">
+    	<classes>
+   		 <class name="bluecake.validateTitle"/> 
+   	 </classes> 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
